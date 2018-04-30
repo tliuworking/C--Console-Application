@@ -1,0 +1,12 @@
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\WDTAssignmentOne.deps.json
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\WDTAssignmentOne.runtimeconfig.json
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\WDTAssignmentOne.runtimeconfig.dev.json
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\WDTAssignmentOne.dll
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\bin\Debug\netcoreapp2.0\WDTAssignmentOne.pdb
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.csproj.CoreCompileInputs.cache
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.AssemblyInfoInputs.cache
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.AssemblyInfo.cs
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.dll
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.pdb
+C:\Users\11062\source\repos\WDTAssignmentOne\WDTAssignmentOne\obj\Debug\netcoreapp2.0\WDTAssignmentOne.csprojResolveAssemblyReference.cache
